@@ -1,6 +1,6 @@
 # Los Angeles Crime Data Analysis (2020 - 2023)
 
-This project provides a comprehensive Exploratory Data Analysis (EDA) of crime trends in Los Angeles from **2020 to 2024**. Using real-world data from the LA City Open Data portal, this analysis uncovers patterns in crime types, geographical distribution, and reporting delays.
+This project provides a comprehensive Exploratory Data Analysis (EDA) of crime trends in Los Angeles from **2020 to 2023**. Using real-world data from the LA City Open Data portal, this analysis uncovers patterns in crime types, geographical distribution, and reporting delays.
 
 ## 📊 Project Overview
 
